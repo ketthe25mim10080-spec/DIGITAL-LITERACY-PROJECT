@@ -11,7 +11,7 @@
 | **Registration No.** | 25MIM10080 |
 | **Branch** | Integrated M.Tech – Artificial Intelligence |
 | **Year** | First Year |
-| **Course** | CSE0001 – Digital Literacy (1 Credit, Pass/Fail) |
+| **Course** | CSE0001 – Digital Literacy |
 
 ---
 
@@ -67,7 +67,7 @@ Screenshots of all three profiles are in `task-2-portfolio/`.
 - **Part A (HackerRank):** Completed a beginner coding challenge and earned a badge. Screenshot in `task-3-platforms/`.
 - **Part B (Google Forms):** Created a 5-question Digital Literacy Awareness Quiz with multiple choice and short answer questions, linked to a Google Sheet for response tracking. Screenshot in `task-3-platforms/`.
 
-> 📋 Google Form Quiz Link: *[Add your Google Form link here]*
+> 📋 Google Form Quiz Link: https://forms.gle/6bmbQX4ktRedtUfm6
 
 ### Task 4 – Professional Email & Etiquette Guide (Module 4)
 - Drafted two professional emails: one requesting a deadline extension from a professor, and one applying for a summer internship.
